@@ -28,16 +28,3 @@ git clone https://github.com/your-username/are-you-still-angry.git
 
 4. Optionally, you can edit the `style.css` and `script.js` files to customize the appearance and behavior of the game.
 
-## File Structure
-
-
-
-
-3. Open `index.html` in your browser to view the project.
-
-4. Optionally, you can edit the `style.css` and `script.js` files to customize the appearance and behavior of the game.
-
-## File Structure
-
-/are-you-still-angry ├── index.html # HTML structure of the page ├── style.css # Styling for the page └── script.js # JavaScript to handle interactions
-
