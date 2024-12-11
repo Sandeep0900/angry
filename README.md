@@ -39,3 +39,5 @@ git clone https://github.com/your-username/are-you-still-angry.git
 
 ## File Structure
 
+/are-you-still-angry ├── index.html # HTML structure of the page ├── style.css # Styling for the page └── script.js # JavaScript to handle interactions
+
